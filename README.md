@@ -9,9 +9,9 @@ Foi feito um pequeno projeto de layouts em flutter. Foi possível aprender a est
 Fotos do projeto:
 
 
-![foto01](https://user-images.githubusercontent.com/81994459/205519752-10fd2744-d679-4fca-84be-2c7f39996321.jpeg)
+![01foto](https://user-images.githubusercontent.com/81994459/205520075-1730e61e-af9c-487f-b8fc-df885cbe0739.png)
 
 
+---
 
-
-![foto02](https://user-images.githubusercontent.com/81994459/205519764-1d5fbf89-8b8b-4cc1-ac67-d627d51ae6c9.jpeg)
+![02foto](https://user-images.githubusercontent.com/81994459/205520080-e7584bee-c5ac-4b18-ac16-c4bb01f60e66.png)
