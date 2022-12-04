@@ -1,16 +1,17 @@
-# alura_estilizando_reproduzindo_layouts
+# Projeto Alura
 
-A new Flutter project.
+---
 
-## Getting Started
+Foi feito um pequeno projeto de layouts em flutter. Foi possível aprender a estilizar e reproduzir layouts, como organizar código e separar funcionalidades.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Fotos do projeto:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![foto01](https://user-images.githubusercontent.com/81994459/205519752-10fd2744-d679-4fca-84be-2c7f39996321.jpeg)
+
+
+
+
+![foto02](https://user-images.githubusercontent.com/81994459/205519764-1d5fbf89-8b8b-4cc1-ac67-d627d51ae6c9.jpeg)
