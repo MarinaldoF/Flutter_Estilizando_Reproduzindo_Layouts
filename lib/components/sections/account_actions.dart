@@ -1,8 +1,5 @@
 import 'package:alura_estilizando_reproduzindo_layouts/components/box_card.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class AccountActions extends StatelessWidget {
   const AccountActions({Key? key}) : super(key: key);

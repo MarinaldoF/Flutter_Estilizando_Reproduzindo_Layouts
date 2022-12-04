@@ -2,7 +2,6 @@ import 'package:alura_estilizando_reproduzindo_layouts/components/box_card.dart'
 import 'package:alura_estilizando_reproduzindo_layouts/components/color_dot.dart';
 import 'package:alura_estilizando_reproduzindo_layouts/components/content_division.dart';
 import 'package:alura_estilizando_reproduzindo_layouts/themes/theme_colors.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class RecentActivity extends StatelessWidget {
